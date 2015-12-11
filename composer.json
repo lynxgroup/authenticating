@@ -1,0 +1,13 @@
+{
+    "name": "lynxgroup/authenticating",
+    "type": "library",
+    "description": "authenticating",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LynxGroup\\": "src/LynxGroup"
+        }
+    }
+}
